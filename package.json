@@ -1,0 +1,16 @@
+{
+    "name": "5rings-website",
+    "version": "1.0.0",
+    "description": "5RINGS Multi Sports Facility Website",
+    "scripts": {
+        "start": "cd client && npm run dev",
+        "client": "cd client && npm run dev",
+        "install:client": "cd client && npm install"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gh-pages": "^6.3.0"
+    }
+}
